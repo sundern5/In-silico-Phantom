@@ -2,7 +2,7 @@ READ ME - IN-SILICO PHANTOM GENERATION
 
 This program is to generate a synthetic CT image based on a finite element (FE) mesh.
 
-
+![phantom_schematic](https://github.com/sundern5/In-silico-Phantom/blob/main/phantom_schematic.png)
 
 Run lung_sinogram.py to generate the 3D sinogram and the synthetic CT image.
 
